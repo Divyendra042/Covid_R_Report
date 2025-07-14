@@ -13,7 +13,12 @@ This project performs an exploratory data analysis (EDA) on the global COVID-19 
    - Top 10 Countries by Total Deaths (Bar Chart)
    - Vaccination Progress Over Time
 
-Libraries used:
+4.Libraries used:
 - tidyverse
 - ggplot2
 - lubridate
+
+5.Visualizations
+Time Series Plot – Total COVID-19 cases for India, United States, and Brazil
+Bar Plot – Top 10 countries by total deaths
+Line Plot – Vaccination progress over time by country
