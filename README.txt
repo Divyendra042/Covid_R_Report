@@ -22,3 +22,6 @@ This project performs an exploratory data analysis (EDA) on the global COVID-19 
 Time Series Plot – Total COVID-19 cases for India, United States, and Brazil
 Bar Plot – Top 10 countries by total deaths
 Line Plot – Vaccination progress over time by country
+C:\Users\divye\Desktop\Time Series Plot.jpg
+C:\Users\divye\Desktop\Bar Plot.jpg
+C:\Users\divye\Desktop\Line Plot.jpg
